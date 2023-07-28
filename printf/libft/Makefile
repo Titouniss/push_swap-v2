@@ -12,7 +12,7 @@
 
 # PROJECT #
 NAME	= libft.a
-CC		= CC
+CC		= cc
 CFLAGS	= -Wall -Wextra -Werror
 RM		= @rm -f
 CLEAR	= @clear

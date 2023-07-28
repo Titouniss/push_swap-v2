@@ -12,7 +12,7 @@
 
 # PROJECT
 NAME	= libftprintf.a
-CC		= CC
+CC		= cc
 CFLAGS	= -Wall -Werror -Wextra
 RM		= @rm -f
 CLEAR	= @clear
