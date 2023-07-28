@@ -12,7 +12,7 @@
 
 # PROJECT
 NAME	= push_swap
-CC		= @clang
+CC		= @cc
 CFLAGS	= -Wall -Werror -Wextra
 RM		= @rm -f
 CLEAR	= @clear
